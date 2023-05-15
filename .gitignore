@@ -21,6 +21,7 @@
 .vscode/*
 !.vscode/extensions.json
 *.pem
+.env
 
 # debug
 npm-debug.log*
